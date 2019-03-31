@@ -1,6 +1,10 @@
 ## Jordan Roberts
 
-I am a London-based software developer, having transitioned into technology after recently qualifying as a solicitor. My background in law has equipped me with a passion for problem-solving and strong communication and analytical skills. Unlike the law, a career as a developer fulfils my desire to work on projects that I am genuinely passionate about, in an environment where the culture and values closely align with my own. For me, software development is the perfect blend of technology and creativity, giving me the opportunity to combine the two to create exciting projects from start to finish. It encompasses all that I am passionate about: collaborating with motivated and likeminded people; constantly learning new things; and using technology to connect and share the world. I am looking for an entry-level developer role in an innovative environment where I can continue to learn and become the best developer I can be (preferably in a company that is close to good lunch spots as I love to eat!)
+I am a London-based software developer, having transitioned into technology after recently qualifying as a solicitor. My background in law has equipped me with a passion for problem-solving and strong communication and analytical skills. Unlike the law, a career as a developer fulfils my desire to work on projects that I am genuinely passionate about, in an environment where the culture and values closely align with my own.
+
+For me, software development is the perfect blend of technology and creativity, giving me the opportunity to combine the two to create exciting projects from start to finish. It encompasses all that I am passionate about: collaborating with motivated and likeminded people; constantly learning new things; and using technology to connect and share the world.
+
+I am looking for an entry-level developer role in an innovative environment where I can continue to learn and become the best developer I can be (preferably in a company that is close to good lunch spots as I love to eat!)
 
 
 ## Skills
