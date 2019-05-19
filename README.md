@@ -81,7 +81,6 @@ I joined the firm in 2014 as a paralegal and undertook a two year training contr
 - Technology - of course :)
 
 ## Contact
-Github: http://www.github.com/jordantroberts
-Blog: http://www.codingfoodie.co.uk
-LinkedIn: https://www.linkedin.co
-2010-2011: 380 UCAS points at A & AS Level (English Literature, History, Philosophy & Ethics and Photography)
+- Github: http://www.github.com/jordantroberts
+- Blog: http://www.codingfoodie.co.uk
+- LinkedIn: https://www.linkedin.co
