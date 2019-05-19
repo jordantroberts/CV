@@ -1,11 +1,19 @@
 ## Jordan Roberts
 
+[Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) | [Contact](#Contact)
+
 I am a London-based software developer, having transitioned into technology after recently qualifying as a solicitor. My background in law has equipped me with a passion for problem-solving and strong communication and analytical skills. Unlike the law, a career as a developer fulfils my desire to work on projects that I am genuinely passionate about, in an environment where the culture and values closely align with my own.
 
 For me, software development is the perfect blend of technology and creativity, giving me the opportunity to combine the two to create exciting projects from start to finish. It encompasses all that I am passionate about: collaborating with motivated and likeminded people; constantly learning new things; and using technology to connect and share the world.
 
-I am looking for an entry-level developer role in an innovative environment where I can continue to learn and become the best developer I can be (preferably in a company that is close to good lunch spots as I love to eat!)
+I am looking for an entry-level developer role in a supportive environment where I can continue to learn and become the best developer I can be (preferably in a company that is close to good lunch spots as I love to eat!)
 
+## Projects
+
+| Project | Description | Technology |
+| ----- | ----- | ----- |
+| [Project Name](link) | Description | Tech used |
+| [Project Name](link) | Description | Tech used |
 
 ## Skills
 
@@ -39,10 +47,9 @@ I am looking for an entry-level developer role in an innovative environment wher
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Git workflow
+- TDD
+- Agile working
 
 #### University of Surrey (2011 - 2014)
 
@@ -53,6 +60,10 @@ I am looking for an entry-level developer role in an innovative environment wher
 #### University of Law (2015 - 2017)
 
 - Legal Practice Course: Distinction
+
+#### Maiden Erlegh School and Sixth Form (2004 - 2011)
+- 2010-2011: 380 UCAS points at A & AS Level (English Literature, History, Philosophy & Ethics and Photography)
+- 2009: 11 GCSEs A*-B
 
 ## Experience
 
@@ -70,6 +81,7 @@ I joined the firm in 2014 as a paralegal and undertook a two year training contr
 - Technology - of course :)
 
 ## Contact
-Github:
-Blog:
-LinkedIn:
+Github: http://www.github.com/jordantroberts
+Blog: http://www.codingfoodie.co.uk
+LinkedIn: https://www.linkedin.co
+2010-2011: 380 UCAS points at A & AS Level (English Literature, History, Philosophy & Ethics and Photography)
