@@ -83,4 +83,4 @@ I joined the firm in 2014 as a paralegal and undertook a two year training contr
 ## Contact
 - Github: http://www.github.com/jordantroberts
 - Blog: http://www.codingfoodie.co.uk
-- LinkedIn: https://www.linkedin.co
+- LinkedIn: https://www.linkedin.com/in/jordan-roberts-a4419586/
