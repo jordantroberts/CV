@@ -10,10 +10,12 @@ I am looking for an entry-level developer role in a supportive environment where
 
 ## Projects
 
-| Project | Description | Technology |
-| ----- | ----- | ----- |
-| [Project Name](link) | Description | Tech used |
-| [Project Name](link) | Description | Tech used |
+| Project | Description | Technologies |
+| ----- | ----- | ----- | ----- |
+| <a href="https://github.com/jordantroberts/Foodstagram">Foodstagram</a> | Makers Academy weekend challenge to build an Instagram clone | Ruby on Rails, Postgres, CSS, RSpec, Capybara |
+| <a href="https://github.com/jordantroberts/thermostat-js">Thermostat</a> | A responsive web app where users can choose the temperature based on the current temperature of cities around the world. This app incorporates a weather API. | JavaScript, jQuery, CSS, HTML, Jasmine |
+| <a href="https://github.com/makersacademy/news-summary-challenge">News App</a> | Makers Academy weekend challenge to build a single page front end web app that sends requests to The Guardian's API and display the latest news stories in a variety of different categories around the world! | JavaScript, HTML, CSS,  Node |
+| <a href="https://github.com/jordantroberts/chitter-challenge">Chitter</a> | A small Twitter clone that enables users to post messages to a public stream. | Ruby, Sinatra, Capybara, RSpec, Postgres |
 
 ## Skills
 
@@ -21,7 +23,7 @@ I am looking for an entry-level developer role in a supportive environment where
 
 - Training as a solicitor equipped me with excellent communication skills, both written and verbal. I was required to communicate confidently and coherently on a daily basis, whether that be via written word, over the telephone or in face-to-face meetings. I recognise the importance of great communication in order to build relationships, work effectively together and deliver great results. My written communication is also well-developed, as I was required to write to clients and draft documentation on a daily basis, translating technical legal jargon into non-technical language.
 
-- During my time at Makers Academy, I maintained a blog about my journey from law into software development and documenting my experiences along the way.
+- During my time at Makers Academy, I maintained a <a href="www.codingfoodie.co.uk">blog</a> about my journey from law into software development and documenting my experiences along the way.
 
 #### Attention to Detail
 
@@ -30,11 +32,14 @@ I am looking for an entry-level developer role in a supportive environment where
 #### Adaptable and Quick to Learn
 
 - I was often thrown in at the deep end whilst training as a solicitor: attending court last minute; drafting documents to tight deadlines; and researching niche points of law quickly in order to report back to a waiting client. I was able to adapt to the situations I was presented with and pick up a variety of knowledge in order to ensure I was well-informed and best prepared to represent a client.
-- Studying at Makers Academy required adapting to a new style of learning and taking on board a lot of information and techniques at a very fast pace.
+
+- Studying at Makers Academy required adapting to a new style of learning and taking on board a lot of information and techniques at a very fast pace. I have quickly picked up  new technical skills, learnt new languages and frameworks and also methods of working.
 
 #### Analytical Mindset
 
 - My legal education taught me to approach problems with an analytical mind as I had to understand and untangle complex legal problems, analyse and research the multiple elements to them, and come up with effective solutions for  clients.
+
+- Whilst at Makers Academy, I approached problems in a methodical and analytical way, following an effective debugging process and breaking down large problems into smaller, manageable chunks to meet specifications and find a solution.
 
 
 ## Education
