@@ -2,11 +2,11 @@
 
 [Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) | [Contact](#Contact)
 
-I am a London-based software developer, having transitioned into technology after recently qualifying as a solicitor. My background in law has equipped me with a passion for problem-solving and strong communication and analytical skills. Unlike the law, a career as a developer fulfils my desire to work on projects that I am genuinely passionate about, in an environment where the culture and values closely align with my own.
+I am a dedicated, self-motivated software developer currently studying at <a href="https://makers.tech/hire/">Makers Academy</a>, having transitioned into technology after recently qualifying as a solicitor. My background in law has equipped me with a passion for problem-solving and strong communication and analytical skills. Unlike the law, a career as a developer fulfils my desire to work on projects that I am genuinely passionate about, in an environment where the culture and values closely align with my own.
 
 For me, software development is the perfect blend of technology and creativity, giving me the opportunity to combine the two to create exciting projects from start to finish. It encompasses all that I am passionate about: collaborating with motivated and likeminded people; constantly learning new things; and using technology to connect and share the world.
 
-I am looking for an entry-level developer role in a supportive environment where I can continue to learn and become the best developer I can be (preferably in a company that is close to good lunch spots as I love to eat!)
+I am looking for an entry-level developer role in a supportive environment where I can continue to learn and become the best developer I can be.
 
 ## Projects
 
@@ -41,20 +41,22 @@ I am looking for an entry-level developer role in a supportive environment where
 
 - Whilst at Makers Academy, I approached problems in a methodical and analytical way, following an effective debugging process and breaking down large problems into smaller, manageable chunks to meet specifications and find a solution.
 
-
 ## Education
 
 #### Makers Academy (March 2019 - June 2019)
 
-- Makers Academy is an intensive 16-week software development course  with a focus on:
+- Coding bootcamp with a focus on:
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- OOP
+- Pair programming
+- Ruby, Rails, JavaScript, Sinatra, Postgres
+- RSpec, Jasmine, Capybara
 - Git workflow
-- TDD
+- Projects are written using TDD
 - Agile working
+- Travis CI
+- Heroku deploymnent
+- Code reviews
 
 #### University of Surrey (2011 - 2014)
 
