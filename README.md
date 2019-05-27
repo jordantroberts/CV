@@ -12,7 +12,7 @@ I am looking for an entry-level developer role in a supportive environment where
 
 | Project | Description | Technologies |
 | ----- | ----- | ----- |
-| <a href="https://github.com/jordantroberts/Foodstagram">Foodstagram</a> | Makers Academy weekend challenge to build an Instagram clone | Ruby on Rails, Postgres, CSS, RSpec, Capybara |
+| <a href="https://github.com/jordantroberts/Foodstagram">Foodstagram</a><br><img src="Ruby.png" height="42" width="42">| Makers Academy weekend challenge to build an Instagram clone | Ruby on Rails, Postgres, CSS, RSpec, Capybara |
 | <a href="https://github.com/jordantroberts/thermostat-js">Thermostat</a> | A responsive web app where users can choose the temperature based on the current temperature of cities around the world. This app incorporates a weather API. | JavaScript, jQuery, CSS, HTML, Jasmine |
 | <a href="https://github.com/makersacademy/news-summary-challenge">News App</a> | Makers Academy weekend challenge to build a single page front end web app that sends requests to The Guardian's API and display the latest news stories in a variety of different categories around the world! | JavaScript, HTML, CSS,  Node |
 | <a href="https://github.com/jordantroberts/chitter-challenge">Chitter</a> | A small Twitter clone that enables users to post messages to a public stream. | Ruby, Sinatra, Capybara, RSpec, Postgres |
