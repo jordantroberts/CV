@@ -86,7 +86,7 @@ I have experience in Corporate and Commercial Law, Dispute Resolution and Privat
 
 **TWM Solicitors LLP** (June 2014 - August 2017)    
 *Property Paralegal*
-I worked within a highly experienced team assisting solicitors with all aspects of a property transaction from taking initial instructions through to completion. Whilst working in this role I balanced full-time employment with part-time education as I studied my Legal Practice Course simultaneously.
+- I worked within a highly experienced team assisting solicitors with all aspects of a property transaction from taking initial instructions through to completion. Whilst working in this role I balanced full-time employment with part-time education as I studied my Legal Practice Course simultaneously.
 
 **Hollister Co** (October 2011 - May 2014)
 *Brand Representative*
