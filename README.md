@@ -4,7 +4,7 @@
 
 I am a dedicated, self-motivated software developer currently studying at <a href="https://makers.tech/hire/">Makers Academy</a>, having transitioned into technology after recently qualifying as a solicitor. My background in law has equipped me with a passion for problem-solving and strong communication and analytical skills. Unlike the law, a career as a developer fulfils my desire to work on projects that I am genuinely passionate about, in an environment where the culture and values closely align with my own.
 
-For me, software development is the perfect blend of technology and creativity, giving me the opportunity to combine the two to create exciting projects from start to finish. It encompasses all that I am passionate about: collaborating with motivated and likeminded people; constantly learning new things; and using technology to connect and share the world.
+For me, software development is the perfect blend of technology and creativity, giving me the opportunity to combine the two to create exciting projects from start to finish. I took the leap into software development as it encompasses all that I am passionate about: collaborating with motivated and likeminded people; constantly learning new things; and using technology to connect and share the world.
 
 I am looking for an entry-level developer role in a supportive environment where I can continue to learn and become the best developer I can be.
 
@@ -74,9 +74,29 @@ I am looking for an entry-level developer role in a supportive environment where
 
 ## Experience
 
-**TWM Solicitors LLP** (June 2014 - February 2019)    
+**TWM Solicitors LLP** (August 2017 - February 2019)    
 *Trainee Solicitor*  
-I joined the firm in 2014 as a paralegal and undertook a two year training contract, qualifying as a solicitor in March 2019. My role enabled me to develop excellent written and verbal communication skills and has equipped me with strong organisation and analytical skills and the ability to thrive under pressure to meet client deadlines. I believe that these skills are completely transferable into the world of technology.
+I have experience in Corporate and Commercial Law, Dispute Resolution and Private Client at a well-established, London and Surrey based law firm, serving a range of clients from individuals to businesses and other organisations. Throughout my training I was entrusted with a wide range of responsibilities, including:
+
+- Assisting on a variety of legal matters in several different practice areas.
+- Drafting a vast array of legal documentation.
+- Attending client meetings to interview, advise and explain the law.
+- Attending court to represent clients.
+- Corresponding with clients and other parties on a daily basis.
+
+**TWM Solicitors LLP** (June 2014 - August 2017)    
+*Property Paralegal*
+I worked within a highly experienced team assisting solicitors with all aspects of a property transaction from taking initial instructions through to completion. Whilst working in this role I balanced full-time employment with part-time education as I studied my Legal Practice Course simultaneously.
+
+**Hollister Co** (October 2011 - May 2014)
+*Brand Representative*
+- Interacting and helping customers whilst confidently representing a well-known and respected brand.
+- Effectively balancing part-time employment with full-time study.
+
+**Maiden Erlegh School** (October 2010 - August 2011)
+*Community Arts Technician*
+- Assisting an art tutor teaching an art class, helping children aged 7 – 14 years.
+- Invigilating art galleries, speaking confidently about artists’ work and engaging with large crowds of people.
 
 ## Interests
 - Snowboarding - I love the adrenaline rush and the serenity of being in the mountains.
