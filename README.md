@@ -12,6 +12,7 @@ I am looking for an entry-level developer role in a supportive environment where
 
 | Project | Description | Technologies |
 | ----- | ----- | ----- |
+| <a href="https://github.com/jordantroberts/dinnergy">Dinnergy</a>| Makers Academy final project. An iOS mobile app which allows a user to input leftover ingredients from their fridge and see a list of recipes they can make using those ingredients. Additional features include an option to add items to a shopping list and we also used an API to show the user the locations of nearby food banks and supermarkets. | Swift, Xcode, XCTest |
 | <a href="https://github.com/jordantroberts/Foodstagram">Foodstagram</a>| Makers Academy weekend challenge to build an Instagram clone | Ruby on Rails, Postgres, CSS, RSpec, Capybara |
 | <a href="https://github.com/jordantroberts/thermostat-js">Thermostat</a> | A responsive web app where users can choose the temperature based on the current temperature of cities around the world. This app incorporates a weather API. | JavaScript, jQuery, CSS, HTML, Jasmine |
 | <a href="https://github.com/makersacademy/news-summary-challenge">News App</a> | Makers Academy weekend challenge to build a single page front end web app that sends requests to The Guardian's API and display the latest news stories in a variety of different categories from all around the globe! | JavaScript, HTML, CSS,  Node |
@@ -58,6 +59,10 @@ I am looking for an entry-level developer role in a supportive environment where
 - Heroku deploymnent
 - Code reviews
 
+Whilst studying at Makers I acted as a voluntary mentor and I continue to mentor a student in a more recent cohort to offer support and guidance where I can.
+
+I also was the winner of a monthly blogging competition for my <a href="http://www.codingfoodie.co.uk">blog</a>.
+
 #### University of Surrey (2011 - 2014)
 
 - LLB Law: 2:1 achieved
@@ -102,7 +107,7 @@ I have experience in Corporate and Commercial Law, Dispute Resolution and Privat
 - Snowboarding - I love the adrenaline rush and the serenity of being in the mountains.
 - Travel - growing up in a half-Japanese household has encouraged me to experience as many cultures and as much of the world as I can.
 - Reading - to escape life's banalities.
-- Writing - to indulge my creative side and share my experiences. I have really enjoyed blogging about my journey into the tech world.
+- Writing - to indulge my creative side and share my experiences. I have really enjoyed <a href="http://www.codingfoodie.co.uk">blogging</a> about my journey into the tech world.
 - Food - to experience the world through different flavours.
 - Running - to debug my mind.
 - Technology - of course :)
