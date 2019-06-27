@@ -2,7 +2,7 @@
 
 [Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) | [Contact](#Contact)
 
-I am a dedicated, self-motivated software developer currently studying at <a href="https://makers.tech/hire/">Makers Academy</a>, having transitioned into technology after recently qualifying as a solicitor. My background in law has equipped me with a passion for problem-solving and strong communication and analytical skills. Unlike the law, a career as a developer fulfils my desire to work on projects that I am genuinely passionate about, in an environment where the culture and values closely align with my own.
+I am a dedicated, self-motivated software developer and <a href="https://makers.tech/hire/">Makers Academy</a> alumni, having transitioned into technology after recently qualifying as a solicitor. My background in law has equipped me with a passion for problem-solving and strong communication and analytical skills. Unlike the law, a career as a developer fulfils my desire to work on projects that I am genuinely passionate about, in an environment where the culture and values closely align with my own.
 
 For me, software development is the perfect blend of technology and creativity, giving me the opportunity to combine the two to create exciting projects from start to finish. I took the leap into software development as it encompasses all that I am passionate about: collaborating with motivated and likeminded people; constantly learning new things; and using technology to connect and share the world.
 
@@ -24,11 +24,11 @@ I am looking for an entry-level developer role in a supportive environment where
 
 - Training as a solicitor equipped me with excellent communication skills, both written and verbal. I was required to communicate confidently and coherently on a daily basis, whether that be via written word, over the telephone or in face-to-face meetings. I recognise the importance of great communication in order to build relationships, work effectively together and deliver great results. My written communication is also well-developed, as I was required to write to clients and draft documentation on a daily basis, translating technical legal jargon into non-technical language.
 
-- During my time at Makers Academy, I maintained a <a href="www.codingfoodie.co.uk">blog</a> about my journey from law into software development and documenting my experiences along the way.
+- During my time at Makers Academy, I maintained a <a href="www.codingfoodie.co.uk">blog</a> about my journey from law into software development and documenting my experiences along the way. I received a blogging prize from Makers Academy for this blog.
 
 #### Attention to Detail
 
-- Being meticulous with careful attention to detail is a skill that I have developed through my legal training, as it is important that information is communicated correctly and that documents are carefully checked for errors. This skill has proved to be invaluable when it comes to scanning and checking code that I have written or that a pair partner has written.
+- Being meticulous with careful attention to detail is a skill that I have developed through my legal training, as it is important that information is communicated correctly and that documents are carefully checked for errors. This skill has proved to be invaluable when it comes to reviewing code that I have written or that a pair partner has written.
 
 #### Adaptable and Quick to Learn
 
