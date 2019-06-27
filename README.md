@@ -10,13 +10,13 @@ I am looking for an entry-level developer role in a supportive environment where
 
 ## Projects
 
-| Project | Description | Technologies |
-| ----- | ----- | ----- |
-| <a href="https://github.com/jordantroberts/dinnergy">Dinnergy</a>| Makers Academy final project. An iOS mobile app which allows a user to input leftover ingredients from their fridge and see a list of recipes they can make using those ingredients. Additional features include an option to add items to a shopping list and we also used an API to show the user the locations of nearby food banks and supermarkets. | Swift, Xcode, XCTest |
-| <a href="https://github.com/jordantroberts/Foodstagram">Foodstagram</a>| Makers Academy weekend challenge to build an Instagram clone | Ruby on Rails, Postgres, CSS, RSpec, Capybara |
-| <a href="https://github.com/jordantroberts/thermostat-js">Thermostat</a> | A responsive web app where users can choose the temperature based on the current temperature of cities around the world. This app incorporates a weather API. | JavaScript, jQuery, CSS, HTML, Jasmine |
-| <a href="https://github.com/makersacademy/news-summary-challenge">News App</a> | Makers Academy weekend challenge to build a single page front end web app that sends requests to The Guardian's API and display the latest news stories in a variety of different categories from all around the globe! | JavaScript, HTML, CSS,  Node |
-| <a href="https://github.com/jordantroberts/chitter-challenge">Chitter</a> | A small Twitter clone that enables users to post messages to a public stream. | Ruby, Sinatra, Capybara, RSpec, Postgres |
+| Project | Description | Timeframe | Technologies |
+| ----- | ----- | ----- | ----- |
+| <a href="https://github.com/jordantroberts/dinnergy">Dinnergy</a>| Makers Academy final project. An iOS mobile app which allows a user to input leftover ingredients from their fridge and see a list of recipes they can make using those ingredients. Additional features include an option to add items to a shopping list and we also used an API to show the user the locations of nearby food banks and supermarkets. | 2 weeks | Swift, Xcode, XCTest |
+| <a href="https://github.com/jordantroberts/Foodstagram">Foodstagram</a>| Makers Academy weekend challenge to build an Instagram clone | 2 days | Ruby on Rails, Postgres, CSS, RSpec, Capybara |
+| <a href="https://github.com/jordantroberts/thermostat-js">Thermostat</a> | A responsive web app where users can choose the temperature based on the current temperature of cities around the world. This app incorporates a weather API. | 5 days | JavaScript, jQuery, CSS, HTML, Jasmine |
+| <a href="https://github.com/makersacademy/news-summary-challenge">News App</a> | Makers Academy weekend challenge to build a single page front end web app that sends requests to The Guardian's API and display the latest news stories in a variety of different categories from all around the globe! | 1 day | JavaScript, HTML, CSS,  Node |
+| <a href="https://github.com/jordantroberts/chitter-challenge">Chitter</a> | A small Twitter clone that enables users to post messages to a public stream.| 2 days | Ruby, Sinatra, Capybara, RSpec, Postgres |
 
 ## Skills
 
