@@ -2,7 +2,7 @@
 
 [Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) | [Contact](#Contact)
 
-I am a dedicated, self-motivated software developer and <a href="https://makers.tech/hire/">Makers Academy</a> alumni, having transitioned into technology after recently qualifying as a solicitor. My background in law has equipped me with a passion for problem-solving and strong communication and analytical skills. Unlike the law, a career as a developer fulfils my desire to work on projects that I am genuinely passionate about, in an environment where the culture and values closely align with my own.
+I am a dedicated, self-motivated software developer and <a href="https://makers.tech/hire/">Makers Academy</a> graduate, having transitioned into technology after recently qualifying as a solicitor. My background in law has equipped me with a passion for problem-solving and strong communication and analytical skills. Unlike the law, a career as a developer fulfils my desire to work on projects that I am genuinely passionate about, in an environment where the culture and values closely align with my own.
 
 For me, software development is the perfect blend of technology and creativity, giving me the opportunity to combine the two to create exciting projects from start to finish. I took the leap into software development as it encompasses all that I am passionate about: collaborating with motivated and likeminded people; constantly learning new things; and using technology to connect and share the world.
 
