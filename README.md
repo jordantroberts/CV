@@ -13,10 +13,10 @@ I am looking for an entry-level developer role in a supportive environment where
 | Project | Description | Timeframe | Technologies |
 | ----- | ----- | ----- | ----- |
 | <a href="https://github.com/jordantroberts/dinnergy">Dinnergy</a>| Final team project building a mobile app which allows a user to input leftover ingredients from their fridge and receive a list of recipes they can make based on those ingredients. Additional features include a shopping list feature and we used MapKit to show locations of nearby food banks and supermarkets. | 10 days, weeks 11 & 12 | Swift, Xcode, XCTest |
-| <a href="https://github.com/jordantroberts/Foodstagram">Foodstagram</a>| Makers Academy weekend challenge to build an Instagram clone. | 2 days, week 8 | Ruby on Rails, Postgres, CSS, RSpec, Capybara |
-| <a href="https://acebook-steam.herokuapp.com/">Acebook</a>| Team project to build a Facebook clone, applying Agile principles. | 9 days, weeks 8 & 9 | Ruby on Rails, Postgres, RSpec, Capybara, CSS, Travis, Heroku |
-| <a href="https://github.com/jordantroberts/thermostat-js">Thermostat</a> | A responsive web app where users can choose the temperature based on the current temperature of cities around the world. This app incorporates a weather API. | 5 days, week 5 | JavaScript, jQuery, CSS, HTML, Jasmine |
-| <a href="https://github.com/jordantroberts/news-summary-challenge">News App</a> | Makers Academy weekend challenge to build a single page front end web app that sends requests to The Guardian's API and display the latest news stories in a variety of different categories from all around the globe! | 1 day, week 7 | JavaScript, HTML, CSS,  Node |
+| <a href="https://github.com/jordantroberts/Foodstagram">Foodstagram</a>| Makers Academy weekend challenge to build an Instagram clone. | 2 days, week 8 | Ruby on Rails, Postgres, RSpec, Capybara |
+| <a href="https://acebook-steam.herokuapp.com/">Acebook</a>| Team project to build a Facebook clone, applying Agile principles. | 9 days, weeks 8 & 9 | Ruby on Rails, Postgres, RSpec, Capybara, Travis, Heroku |
+| <a href="https://github.com/jordantroberts/thermostat-js">Thermostat</a> | A responsive web app where users can choose the temperature based on the current temperature of cities around the world. This app incorporates a weather API. | 5 days, week 5 | JavaScript, HTML, Jasmine |
+| <a href="https://github.com/jordantroberts/news-summary-challenge">News App</a> | Makers Academy weekend challenge to build a single page front end web app that sends requests to The Guardian's API and display the latest news stories in a variety of different categories from all around the globe! | 1 day, week 7 | vanilla JavaScript, HTML |
 | <a href="https://github.com/jordantroberts/chitter-challenge">Chitter</a> | A small Twitter clone that enables users to post messages to a public stream.| 2 days, week 4 | Ruby, Sinatra, Capybara, RSpec, Postgres |
 
 ## Skills
